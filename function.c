@@ -1,4 +1,3 @@
-
 int add(a,b) 
   return(a+b)
 int subtract(a,b)
@@ -11,4 +10,5 @@ if a<0
 else 
   return(a)
  }
-
+int divide(a,b)
+  return(a/b)
